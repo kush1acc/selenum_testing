@@ -1,0 +1,1 @@
+pytest -v -s --html=report.html trying.py
